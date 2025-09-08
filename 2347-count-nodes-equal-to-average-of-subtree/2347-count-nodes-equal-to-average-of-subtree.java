@@ -54,7 +54,7 @@ class Solution {
         int sum = left[0] + right[0] + root.val;
         int no = left[1]+ right[1] + 1;
 
-        if(Math.floor(sum/no)==root.val) count++;
+        if(sum/no==root.val) count++;
 
         return  new int[]{sum,no};
     }
