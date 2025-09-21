@@ -28,10 +28,10 @@ class Solution {
 
         if(left) root.left=null;
         if(right) root.right=null;
-        if(root.val==target && root.left==null && root.right==null){
-            isdeleted=true;
-            return true;
-        }
+        // if(root.val==target && root.left==null && root.right==null){
+        //     isdeleted=true;
+        //     return true;
+        // }
 
         return false;
 
