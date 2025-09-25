@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1040-maximum-binary-tree-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1484-linked-list-in-binary-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
