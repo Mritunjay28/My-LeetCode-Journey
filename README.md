@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
