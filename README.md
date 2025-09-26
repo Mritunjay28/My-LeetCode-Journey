@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
+| [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -193,8 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 ## Linked List
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1484-linked-list-in-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
