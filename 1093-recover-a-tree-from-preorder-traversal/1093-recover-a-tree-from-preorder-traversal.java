@@ -27,7 +27,9 @@ while (idx < t.length() && Character.isDigit(t.charAt(idx))) {
 }
         TreeNode root = new TreeNode(val);
         int count=0;
-        int tempidx=idx;
+        int tempidx=idx; // tempidx because if suppose you count - and it less then current then you go back
+        // but as idx is global we lose the value due to direct update globaly
+        // so we keep trmpidx and only increase idx when we get an answer 
         while(tempidx<t.length() && t.charAt(tempidx)=='-') {
             count++;
             tempidx++;
