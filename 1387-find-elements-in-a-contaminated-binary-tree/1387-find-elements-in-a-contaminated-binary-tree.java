@@ -30,8 +30,8 @@ class FindElements {
     }
     
     public boolean find(int target) {
-        if(set.contains(target)) return true;
-        return false;
+       
+        return  set.contains(target);
     }
 }
 
