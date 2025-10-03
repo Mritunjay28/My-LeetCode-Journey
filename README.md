@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -274,12 +276,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
