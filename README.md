@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
