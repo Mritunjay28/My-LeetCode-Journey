@@ -5,7 +5,6 @@ class Solution {
         parent = new int[26]; 
         for(int i=0;i<26;i++) parent[i]=i;
         rank = new int[26]; 
-        Arrays.fill(rank,1);
         for(int i=0;i<equ.length;i++){
             String s = equ[i];
             int first = s.charAt(0)-'a';
@@ -15,12 +14,6 @@ class Solution {
             if(equal){
                 union(first,second);
             }
-            // else{
-            //     int xparent=find(first);
-            //     int yparent=find(second);
-
-            //     if(xparent==yparent) return false;
-            // }
         }
 
          for(int i=0;i<equ.length;i++){
