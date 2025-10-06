@@ -20,6 +20,8 @@ class Solution {
             int currdistance= curr[0];
             int u = curr[1];
 
+            if(currdistance > distance[u]) continue;
+
             for(int[] v : adj.get(u)){
                 int adjnode = v[0];
                 int newdistance = v[1];
