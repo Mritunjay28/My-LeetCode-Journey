@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -308,4 +311,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
+| [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
