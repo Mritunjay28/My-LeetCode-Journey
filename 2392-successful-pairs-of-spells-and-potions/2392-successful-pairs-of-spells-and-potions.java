@@ -36,7 +36,7 @@ class Solution {
 
     if we see this as if we sort both nlogn + mlogm do binary search for all n elemnt will get result in logn 
 
-    t.c =  mlogm + n*logm  = m
+    t.c =  mlogm + n*logm  = (m+n)logm
 
 
     thinking of applying binary search as if sorted then we just have to find starting potion position which allow us to make succes then all next will be done 
