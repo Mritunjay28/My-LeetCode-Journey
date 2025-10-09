@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Queue
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1706-min-cost-to-connect-all-points) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
