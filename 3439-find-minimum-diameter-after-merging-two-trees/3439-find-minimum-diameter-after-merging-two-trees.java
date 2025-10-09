@@ -62,6 +62,6 @@ class Solution {
 }
 
 /*
-    thinking that if traverse both graph and find vertice in graph with least diameter then add both +1
+    thinking that if traverse both graph and find vertice in graph with max diameter then add both +1
     T.C - travel whole graph by vertices (V) * travel all edge (E) = V1E1 + V2E2 
  */
