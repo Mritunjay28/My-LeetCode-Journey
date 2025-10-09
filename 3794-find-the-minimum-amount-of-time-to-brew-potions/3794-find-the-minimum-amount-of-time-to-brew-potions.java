@@ -11,7 +11,7 @@ class Solution {
         for(int j=0;j<m;j++){
             if(t!=0) {
                 long ans= -1;
-                long s= prev[0],e=prev[n-1]+1;
+                long s= prev[0],e=prev[n-1];
                 while(s<=e){
                 long mid = s+(e-s)/2;
                 if(check(skill,mana,prev,mid,j)){
