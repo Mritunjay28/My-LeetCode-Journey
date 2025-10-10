@@ -7,7 +7,6 @@ class Solution {
             if(prev>=0){
                 energy[i]+=prev;
             }
-          // max= Math.max(max,energy[i]);
         }
 
         for(int i=energy.length-1;i>energy.length-1-k;i--) max= Math.max(max,energy[i]);
