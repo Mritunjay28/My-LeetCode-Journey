@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
