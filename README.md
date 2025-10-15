@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1484-linked-list-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1484-linked-list-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
