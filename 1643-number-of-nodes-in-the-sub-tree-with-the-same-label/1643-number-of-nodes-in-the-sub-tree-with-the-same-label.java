@@ -1,9 +1,7 @@
 class Solution {
     public int[] countSubTrees(int n, int[][] edges, String labels) {
-        List<HashMap<Integer,Integer>> list = new ArrayList<>();
         List<List<Integer>> adj = new ArrayList<>();
         for(int i=0;i<n;i++){
-            list.add(new HashMap<>());
             adj.add(new ArrayList<>());
         } 
         for(int i=0;i<edges.length;i++){
@@ -13,27 +11,22 @@ class Solution {
 
         int[] ans = new int[n];
 
-        dfs(0,-1,adj,list,labels,ans);
+        dfs(0,-1,adj,labels,ans);
         return ans;
     }
 
-    private HashMap<Integer,Integer> dfs(int u,int parent, List<List<Integer>> adj,List<HashMap<Integer,Integer>> list,String labels,int[] ans){
-        HashMap<Integer,Integer> freq = new HashMap<>();
-        int label = labels.charAt(u) - 'a';
-        freq.put(label, 1);
-
-        for(int v : adj.get(u)){
-            if(v==parent) continue;
-            HashMap<Integer,Integer> childFreq = dfs(v,u,adj,list,labels, ans);
-
-            for (var entry : childFreq.entrySet()) {
-                freq.put(entry.getKey(), freq.getOrDefault(entry.getKey(), 0) + entry.getValue());
-            }
-            
+    private int[] dfs(int u,int parent, List<List<Integer>> adj,String labels,int[] ans){
+         int[] count = new int[26];
+        for (int child : adj.get(u)) {
+            if (child == parent) continue;
+            int[] childCount = dfs(child, u, adj, labels, ans);
+            for (int i = 0; i < 26; i++) count[i] += childCount[i];
         }
 
-        list.set(u, freq);
-        ans[u] = freq.get(label);
-        return freq;
+        count[labels.charAt(u) - 'a']++;
+
+        ans[u] = count[labels.charAt(u) - 'a'];
+
+        return count;
     }
 }
