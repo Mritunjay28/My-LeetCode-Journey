@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
