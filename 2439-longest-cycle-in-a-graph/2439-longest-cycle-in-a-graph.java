@@ -16,10 +16,6 @@ class Solution {
     private void dfs(int u, int[] edges, boolean[] visited, int[] inrecursion, int count) {
         if (visited[u]) return;
 
-        if (inrecursion[u] != -1) {
-            max = Math.max(max, count - inrecursion[u]);
-            return;
-        }
         visited[u] = true;
         inrecursion[u] = count;
         count++;
