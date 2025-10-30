@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1876-map-of-highest-peak) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0863-sum-of-distances-in-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Depth-First Search
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Combinatorics
