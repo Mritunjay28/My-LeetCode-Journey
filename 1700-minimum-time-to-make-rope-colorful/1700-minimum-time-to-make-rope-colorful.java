@@ -9,9 +9,7 @@ class Solution {
                     cost+=neededTime[prev];
                     prev=i;
                 }
-                else{
-                    cost+=neededTime[i];
-                }
+                else cost+=neededTime[i];
             }
             else prev=i;
         }
