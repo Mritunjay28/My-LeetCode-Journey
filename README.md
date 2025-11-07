@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [4059-design-exam-scores-tracker](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4059-design-exam-scores-tracker) |
 ## Monotonic Stack
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Simulation
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4042-minimum-operations-to-transform-array) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Ordered Set
 |  |
