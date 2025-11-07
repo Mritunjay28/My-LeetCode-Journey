@@ -1,7 +1,7 @@
 class Solution {
     public long maxPower(int[] stations, int r, int k) {
         int n = stations.length;
-        long sum = 0;
+        long sum = 0,min=1000000;
       
         long[] diff = new long[n];
         for (int i = 0; i < n; i++) {
@@ -10,12 +10,13 @@ class Solution {
             diff[start] += stations[i];
             if (end + 1 < n) diff[end + 1] -= stations[i];
             sum += stations[i];
+            min=Math.min(min,stations[i]);
         }
 
         for (int i = 1; i < n; i++) diff[i] += diff[i - 1];
 
         
-        long s = 0, e = sum+k, ans = 0;
+        long s = min, e = sum+k, ans = 0;
         while (s <= e) {
             long mid = s + (e - s) / 2;
             if (ispossible(mid, diff, r, k)) {
