@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
