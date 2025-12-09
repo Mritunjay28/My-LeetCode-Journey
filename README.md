@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [4053-majority-frequency-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4053-majority-frequency-characters) |
 ## Number Theory
