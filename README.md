@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Enumeration
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4042-minimum-operations-to-transform-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4042-minimum-operations-to-transform-array) |
 ## Combinatorics
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3863-power-grid-maintenance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
