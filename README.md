@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [4059-design-exam-scores-tracker](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4059-design-exam-scores-tracker) |
 ## Monotonic Stack
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Linked List
 |  |
 | ------- |
