@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
