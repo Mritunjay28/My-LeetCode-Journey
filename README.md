@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3676-count-bowl-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4041-climbing-stairs-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4041-climbing-stairs-ii) |
 ## Depth-First Search
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
