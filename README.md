@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [4059-design-exam-scores-tracker](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4059-design-exam-scores-tracker) |
 ## Monotonic Stack
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
