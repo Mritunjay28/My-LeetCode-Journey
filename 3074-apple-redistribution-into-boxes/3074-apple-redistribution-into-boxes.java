@@ -6,13 +6,12 @@ class Solution {
         while(i<n){
             if(apple[i]<=capacity[j]){
                 capacity[j]-=apple[i];
-                apple[i]=0;
+                 i++;
             } 
             else{
                 apple[i]-=capacity[j];
                 if(apple[i]!=0) j--;
             }
-            if(apple[i]==0) i++;
         }
 
         return m-j;
