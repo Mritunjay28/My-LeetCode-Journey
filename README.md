@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0820-short-encoding-of-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0732-my-calendar-iii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1854-maximum-population-year](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1943-describe-the-painting) |
