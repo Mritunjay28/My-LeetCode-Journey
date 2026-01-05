@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3765-complete-prime-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3830-find-closest-person) |
 ## Geometry
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3765-complete-prime-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3765-complete-prime-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3765-complete-prime-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3765-complete-prime-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
