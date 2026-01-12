@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1314-matrix-block-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
 | [0878-nth-magical-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0878-nth-magical-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
