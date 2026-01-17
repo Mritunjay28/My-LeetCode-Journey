@@ -10,8 +10,8 @@ class Solution {
             int t1x = topRight[i][0];
             int t1y = topRight[i][1];
 
-            for(int j=0;j<n;j++){
-                if(j==i) continue;
+            for(int j=i+1;j<n;j++){
+                // if(j==i) continue;
                 int b2x = bottomLeft[j][0];
                 int b2y = bottomLeft[j][1];
                 int t2x = topRight[j][0];
