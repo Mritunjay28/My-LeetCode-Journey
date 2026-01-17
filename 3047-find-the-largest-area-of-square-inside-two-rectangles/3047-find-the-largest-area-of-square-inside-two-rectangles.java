@@ -2,7 +2,7 @@ class Solution {
     public long largestSquareArea(int[][] bottomLeft, int[][] topRight) {
 
 
-        long area =0;
+        int side=0;
         int n= bottomLeft.length;
         for(int i=0;i<n;i++){
             int b1x = bottomLeft[i][0];
@@ -17,22 +17,19 @@ class Solution {
                 int t2x = topRight[j][0];
                 int t2y = topRight[j][1];
 
-               int minx = Math.max(b1x,b2x);
-               int miny = Math.max(b1y,b2y);
-               int maxx = Math.min(t1x,t2x);
-               int maxy = Math.min(t1y,t2y);
+                int minx = Math.max(b1x,b2x);
+                int miny = Math.max(b1y,b2y);
+                int maxx = Math.min(t1x,t2x);
+                int maxy = Math.min(t1y,t2y);
               
 
                 if(minx<maxx && miny<maxy){
-                    long x =maxx-minx;
-                    long y =maxy-miny;
-
-                    long min = Math.min(x,y);
-                    area=Math.max(area,min*min);
+                    int min = Math.min(maxx-minx, maxy-miny);
+                    side=Math.max(side,min);
                 }
             }
         }
 
-        return area;
+        return (long)side*(long)side;
     }
 }
