@@ -27,8 +27,9 @@ class Solution {
         }
 
         int[] ans = new int[n];
-        for(int i=1;i<n;i++){ // 0-red , 1-blue
-            boolean pathexist = false;
+        Arrays.fill(ans, -1);
+        
+           
             int step =0;
             boolean[][] visited = new boolean[n][2];
             Queue<State> q = new LinkedList<>();
@@ -40,10 +41,8 @@ class Solution {
                 int l = q.size();
                 for(int j=0;j<l;j++){
                     State curr = q.poll();
-                    if(curr.u == i){
-                        ans[i]=step;
-                        pathexist=true;
-                        break;
+                    if(ans[curr.u] == -1 || step<ans[curr.u]){
+                        ans[curr.u]=step;
                     }
                     int colour =curr.colour;
                     if(colour ==0){
@@ -64,11 +63,11 @@ class Solution {
                     }
                   
                 }
-                if(pathexist) break;
+               
                 step++;
             }
-            if(!pathexist) ans[i]=-1;
-        }
+        
+       
         return ans;
     }
 }
