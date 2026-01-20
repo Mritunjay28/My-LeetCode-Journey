@@ -3,10 +3,10 @@ class Solution {
         int n =nums.size();
         int[] ans = new int[n];
         for(int i=0;i<n;i++){
-            if(nums.get(i)==2){
-                ans[i]=-1;
-                continue;
-            }
+            // if(nums.get(i)==2){
+            //     ans[i]=-1;
+            //     continue;
+            // }
             int idx=-1;
             for(int j=0;j<10;j++){
                 if((nums.get(i) &(1<<j))!=0) idx=j;
