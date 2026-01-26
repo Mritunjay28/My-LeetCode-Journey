@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1943-describe-the-painting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1943-describe-the-painting) |
