@@ -6,7 +6,7 @@ class Solution {
             adj.get(edges[i][0]).add(new int[] {edges[i][1],edges[i][2]}); // v,cost
             adj.get(edges[i][1]).add(new int[] {edges[i][0],2*edges[i][2]});
         }
-        boolean[] visited = new boolean[n];
+        // boolean[] visited = new boolean[n];
 
         int[] dist = new int[n];
         Arrays.fill(dist,Integer.MAX_VALUE);
