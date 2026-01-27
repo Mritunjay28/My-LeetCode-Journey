@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3863-power-grid-maintenance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bitmask DP
 |  |
 | ------- |
