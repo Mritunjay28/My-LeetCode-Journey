@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3637-trionic-array-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
