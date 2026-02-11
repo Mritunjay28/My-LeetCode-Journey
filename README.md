@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1314-matrix-block-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1314-matrix-block-sum) |
@@ -884,4 +888,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
