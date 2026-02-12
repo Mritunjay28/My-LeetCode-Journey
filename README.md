@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
+| [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3765-complete-prime-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3765-complete-prime-number) |
 ## Divide and Conquer
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3606-coupon-code-validator) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3703-remove-k-balanced-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3703-remove-k-balanced-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1854-maximum-population-year](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1854-maximum-population-year) |
 | [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [4053-majority-frequency-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4053-majority-frequency-characters) |
 ## Number Theory
