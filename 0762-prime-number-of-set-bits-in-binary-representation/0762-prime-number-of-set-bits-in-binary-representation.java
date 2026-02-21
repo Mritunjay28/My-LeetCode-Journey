@@ -2,14 +2,9 @@ class Solution {
     public int countPrimeSetBits(int left, int right) {
         int count=0;
         for(int i=left;i<=right;i++){ // 10^4
-            int x =i;
-            int count1=0;
-            while(x>0){ // 20
-                int rem=x%2;
-                if(rem==1) count1++;
-                x/=2;
-            }
-
+           
+            int count1=Integer.bitCount(i);;
+           
             if(isprime(count1)) count++; // sqrt(10^6) 10^3 
         }
         // so 10^4*(20+10^3) approx 10^7 
