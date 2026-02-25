@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1943-describe-the-painting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1943-describe-the-painting) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0868-binary-gap) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1854-maximum-population-year](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1854-maximum-population-year) |
