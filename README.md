@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
