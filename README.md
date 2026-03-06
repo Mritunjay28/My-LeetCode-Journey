@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0133-clone-graph) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
