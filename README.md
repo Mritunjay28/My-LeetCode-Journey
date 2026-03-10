@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [4052-equal-score-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4052-equal-score-substrings) |
 | [4053-majority-frequency-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4053-majority-frequency-characters) |
 ## Design
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [4052-equal-score-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4059-design-exam-scores-tracker) |
 ## Counting
