@@ -20,14 +20,10 @@ class Solution {
             long val = arr[i];
             long S = k / val;
             long n = (long) ((-1 + Math.sqrt(1 + 8.0 * S)) / 2);
-            while (val * (n * (n + 1) / 2) > k) n--;
-            while (val * ((n + 1) * (n + 2) / 2) <= k) n++;
-
+           
             cal+=n;
             if(cal>=h) return true;
         }
-
-        if(cal>=h) return true;
         return false;
     }
 }
