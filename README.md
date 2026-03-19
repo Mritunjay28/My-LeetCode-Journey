@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
