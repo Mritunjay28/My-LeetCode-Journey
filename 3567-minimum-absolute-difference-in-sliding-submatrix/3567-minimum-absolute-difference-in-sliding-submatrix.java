@@ -6,19 +6,20 @@ class Solution {
         for(int i=0;i<m-k+1;i++){
             for(int j=0;j<n-k+1;j++){
                 // find min abs for every idx
-                List<Integer> arr = new ArrayList<>();
+                int[] arr = new int[k*k];
+                int idx=0;
                 for(int r=i;r<i+k;r++){
                     for(int c=j;c<j+k;c++){
-                        arr.add(grid[r][c]);
+                        arr[idx++] = grid[r][c];
                     }
                 }
 
-                Collections.sort(arr);
+                Arrays.sort(arr);
 
                 int min = Integer.MAX_VALUE;
-                for(int x=1;x<arr.size();x++){
-                    if(arr.get(x).equals(arr.get(x-1))) continue;
-                    min =Math.min(min,Math.abs(arr.get(x)-arr.get(x-1)));
+                for(int x=1;x<arr.length;x++){
+                    if(arr[x]==arr[x-1]) continue;
+                    min =Math.min(min,arr[x]-arr[x-1]);
                 }
 
                 if(min==Integer.MAX_VALUE) min =0;
