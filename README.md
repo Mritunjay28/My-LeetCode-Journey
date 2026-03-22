@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1642-water-bottles) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1943-describe-the-painting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1943-describe-the-painting) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -896,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
