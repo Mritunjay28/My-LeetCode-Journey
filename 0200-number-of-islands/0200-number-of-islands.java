@@ -1,31 +1,33 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int count=0;
-        boolean[][] visited = new boolean[grid.length][grid[0].length];
+        int m =grid.length,n=grid[0].length;
+        Queue<int[]> q = new LinkedList<>();
+        boolean[][] visited = new boolean [m][n];
 
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
-                if(grid[i][j]=='1' && !visited[i][j] ) {
-                    dfs(grid,i,j,visited);
+        int count=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1' && !visited[i][j]){
                     count++;
+                    bfs(i,j,grid,visited);
                 }
             }
         }
+
         return count;
     }
 
-    int[][] direction = {{0,1},{1,0},{-1,0},{0,-1}};
+    public void bfs(int i,int j,char[][] grid,boolean[][] visited){
+        int m =grid.length,n=grid[0].length;
+        visited[i][j]=true;
 
-    void dfs(char[][] grid,int row,int col, boolean[][] visited ){
-        if(visited[row][col]) return ;
-        visited[row][col] = true;
+        int[][] dir = {{0,1},{1,0},{0,-1},{-1,0}};
 
-        for(int[] dir : direction ){
-            int x = row+dir[0];
-            int y = col+dir[1];
-
-            if(x>=0 && x <grid.length && y>=0 && y<grid[0].length && grid[x][y]=='1') dfs(grid,x,y,visited);
+        for(int[] d : dir){
+            int x = i+d[0] , y = j+d[1];
+            if(x>=0 && x<m && y>=0 && y<n && grid[x][y]=='1' && !visited[x][y] ){
+                bfs(x,y,grid,visited);
+            }
         }
-
     }
 }
