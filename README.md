@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0922-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0922-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
