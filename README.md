@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Minimum Spanning Tree
 |  |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bitmask DP
 |  |
