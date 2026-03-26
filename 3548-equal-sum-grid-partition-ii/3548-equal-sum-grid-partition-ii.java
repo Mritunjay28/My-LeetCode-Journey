@@ -34,19 +34,18 @@ class Solution {
                     // top needs to drop a value to equal bottom
                     long target = topSum - bottomSum;
                     if (target > 0 && target <= Integer.MAX_VALUE && indexMap.containsKey((int) target)) {
-                        if (i == 0 || n == 1) { // Top is 1 row, can only remove corners to stay connected
+                        if (i == 0 || n == 1) { // top is 1 row, can only remove corners 
                             if (g[0][0] == target || g[i][n - 1] == target) return true;
-                        } else {      // >1 row, any cell in top section works
+                        } else { // >1 row, any cell in top works
                             if (indexMap.get((int) target).get(0) <= i * n + n - 1) return true;
                         }
                     }
                 } else {
-                    // bottom needs to drop a value to equal top
                     long target = bottomSum - topSum;
                     if (target > 0 && target <= Integer.MAX_VALUE && indexMap.containsKey((int) target)) {
-                        if (i == m - 2 || n == 1) { // Bottom is 1 row, can only remove corners
+                        if (i == m - 2 || n == 1) { // bottom is 1 row
                             if (g[i+1][0] == target || g[m - 1][n - 1] == target) return true;
-                        } else {          // >1 row, any cell in bottom section works
+                        } else {    
                             List<Integer> list = indexMap.get((int) target);
                             if (list.get(list.size() - 1) >= (i + 1) * n) return true;
                         }
@@ -67,21 +66,20 @@ class Solution {
                     // left needs to drop
                     long target = leftSum - rightSum;
                     if (target > 0 && target <= Integer.MAX_VALUE && indexMap.containsKey((int) target)) {
-                        if (j == 0 || m == 1) { // Left is 1 col
+                        if (j == 0 || m == 1) { // left is 1 col
                             if (g[0][0] == target || g[m - 1][j] == target) return true;
-                        } else {      // >1 col, check map if target exists in left columns
+                        } else { 
                             for (int idx : indexMap.get((int) target)) {
                                 if (idx % n <= j) return true;
                             }
                         }
                     }
                 } else {
-                    // right needs to drop
                     long target = rightSum - leftSum;
                     if (target > 0 && target <= Integer.MAX_VALUE && indexMap.containsKey((int) target)) {
-                        if (j == n - 2 || m == 1) { // Right is 1 col
+                        if (j == n - 2 || m == 1) { // right is 1 col
                             if (g[0][j + 1] == target || g[m - 1][n - 1] == target) return true;
-                        } else {          // >1 col, check map if target exists in right columns
+                        } else {       
                             for (int idx : indexMap.get((int) target)) {
                                 if (idx % n > j) return true;
                             }
