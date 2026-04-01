@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     class Robot {
         int pos, health, idx;
