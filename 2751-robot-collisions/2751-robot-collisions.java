@@ -1,135 +1,68 @@
+import java.util.*;
+
 class Solution {
-
-    class Node<T> {
-        T value;
-        Node<T> prev, next;
-
-        Node(T value) {
-            this.value = value;
-        }
-    }
-
-    class DoublyLinkedList<T> {
-        Node<T> head, tail;
-
-        public Node<T> add(T value) {
-            Node<T> node = new Node<>(value);
-
-            if (head == null) {
-                head = tail = node;
-            } else {
-                tail.next = node;
-                node.prev = tail;
-                tail = node;
-            }
-
-            return node;
-        }
-
-        public void delete(Node<T> node) {
-            if (node == null)
-                return;
-
-            if (node == head)
-                head = node.next;
-            if (node == tail)
-                tail = node.prev;
-
-            if (node.prev != null)
-                node.prev.next = node.next;
-            if (node.next != null)
-                node.next.prev = node.prev;
+    class Robot {
+        int pos, health, idx;
+        char dir;
+        Robot(int p, int h, int i, char d) {
+            pos = p; health = h; idx = i; dir = d;
         }
     }
 
     public List<Integer> survivedRobotsHealths(int[] positions, int[] healths, String directions) {
         int n = positions.length;
-        PriorityQueue<int[]> left = new PriorityQueue<>(
-                (a, b) -> {
-                    return a[0] - b[0];
-                });
+        Robot[] robots = new Robot[n];
+        for (int i = 0; i < n; i++) {
+            robots[i] = new Robot(positions[i], healths[i], i, directions.charAt(i));
+        }
 
-        PriorityQueue<int[]> right = new PriorityQueue<>(
-                (a, b) -> {
-                    return a[0] - b[0];
-                });
-
-        HashMap<Integer, Integer> map = new HashMap<>();
+        // Sort robots by their physical position
+        Arrays.sort(robots, (a, b) -> Integer.compare(a.pos, b.pos));
+        
+        Stack<Robot> st = new Stack<>();
 
         for (int i = 0; i < n; i++) {
-            if (directions.charAt(i) == 'L') {
-                left.add(new int[] { positions[i], healths[i] });
-            } else
-                right.add(new int[] { positions[i], healths[i] });
-        }
-
-        DoublyLinkedList<int[]> list = new DoublyLinkedList<>();
-        while (!right.isEmpty()) {
-            list.add(right.poll());
-        }
-
-        while (!left.isEmpty()) {
-            int[] temp = left.poll();
-            int idx = temp[0], h = temp[1];
-           
-            Node<int[]> curr = list.tail;
-            while (curr != null && h>0) {
-                
-                int[] arr = curr.value;
-
-                if (arr[0] < idx) {
-                    if (arr[1] == h) {
-                        list.delete(curr);
-                        h=0;
-                         break;
-                    } else if (arr[1] > h) {
-                        arr[1]--;
-                        h=0;
-                         break;
+            if (robots[i].dir == 'R') {
+                st.push(robots[i]);
+            } else {
+                // Robot moving Left encounters robots moving Right in the stack
+                while (!st.isEmpty() && st.peek().dir == 'R' && robots[i].health > 0) {
+                    Robot top = st.peek();
+                    if (top.health < robots[i].health) {
+                        st.pop();
+                        robots[i].health--;
+                        top.health = 0;
+                    } else if (top.health > robots[i].health) {
+                        top.health--;
+                        robots[i].health = 0;
                     } else {
-                        h--;
-                        Node<int[]> toDelete = curr;
-                        curr = curr.prev; 
-                        list.delete(toDelete);
-                        continue;
+                        st.pop();
+                        robots[i].health = 0;
+                        top.health = 0;
                     }
-                   
                 }
-                curr = curr.prev;
+                // If the Left-moving robot survives all collisions, keep it
+                if (robots[i].health > 0) {
+                    st.push(robots[i]);
+                }
             }
-
-            if (h>0)
-                map.put(idx, h);
         }
 
-        Node<int[]> curr = list.head;
-        while (curr != null) {
-            int[] arr = curr.value;
-            map.put(arr[0], arr[1]);
-            curr = curr.next;
-        }
-
-        List<Integer> arr = new ArrayList<>();
+        // Create a list of all survivors
+        List<Robot> survivors = new ArrayList<>();
         for (int i = 0; i < n; i++) {
-            int val = positions[i];
-            if (map.containsKey(val))
-                arr.add(map.get(val));
+            if (robots[i].health > 0) {
+                survivors.add(robots[i]);
+            }
         }
 
-        return arr;
+        // Sort by original index to maintain input order
+        Collections.sort(survivors, (a, b) -> Integer.compare(a.idx, b.idx));
 
+        List<Integer> ans = new ArrayList<>();
+        for (Robot r : survivors) {
+            ans.add(r.health);
+        }
+        return ans;
     }
 }
-
-/*
-
-2-15 , 3-10 ,5-10, 6-12
-rrll
-
-basically if a robot have opposite then only they collide 
-
-r - 2-15,3-10,5-9
-l - 4-10,6-12
-
-
-*/
