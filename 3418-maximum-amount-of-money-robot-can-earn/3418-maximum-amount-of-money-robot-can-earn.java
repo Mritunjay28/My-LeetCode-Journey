@@ -17,7 +17,6 @@ class Solution {
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 int val = coins[i - 1][j - 1];
-                // not neutralize 
                 if (val >= 0) {
                     dp[i][j][0] = val + Math.max(dp[i - 1][j][0], dp[i][j - 1][0]);
                     dp[i][j][1] = val + Math.max(dp[i - 1][j][1], dp[i][j - 1][1]);
@@ -32,6 +31,6 @@ class Solution {
             }
         }
 
-        return Math.max(dp[m][n][0], Math.max(dp[m][n][1], dp[m][n][2]));
+        return  dp[m][n][2];
     }
 }
