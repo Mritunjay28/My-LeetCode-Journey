@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3676-count-bowl-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [4059-design-exam-scores-tracker](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4059-design-exam-scores-tracker) |
 ## Monotonic Stack
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4041-climbing-stairs-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4041-climbing-stairs-ii) |
