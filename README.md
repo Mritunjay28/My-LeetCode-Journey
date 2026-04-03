@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [0820-short-encoding-of-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0820-short-encoding-of-words) |
+| [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0863-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-keys-and-rooms) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
@@ -1080,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1905-count-sub-islands) |
