@@ -23,6 +23,8 @@ class Solution {
         
         Arrays.sort(arr, (a, b) -> Integer.compare(a.pos, b.pos));
         
+        // first thought of prefix sum but wall[i] can 1e9 so MLE 
+        // donot understand how to then use bs to solve it by sorting walls 
         Arrays.sort(walls);
 
         // dp[i][0] = max walls using robots 0..i, with robot i going LEFT
