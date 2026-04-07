@@ -4,14 +4,20 @@ class Robot {
     int maxy;
     int x = 0, y = 0;
     int dir = 0; // east
+    int cycle;
 
     public Robot(int width, int height) {
         maxx = width - 1;
         maxy = height - 1;
-
+        cycle = 2 * (width + height) - 4;
     }
 
     public void step(int num) {
+        num%=cycle;
+        if (num == 0 && x == 0 && y == 0) {
+            dir = 4; 
+            return;
+        }
         while (num > 0) {
             if (dir == 0) {
                 if (x + num <= maxx){
