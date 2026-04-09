@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3884-first-matching-character-from-both-ends) |
 | [4052-equal-score-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4052-equal-score-substrings) |
 | [4053-majority-frequency-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4053-majority-frequency-characters) |
 ## Design
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
 |  |
 | ------- |
