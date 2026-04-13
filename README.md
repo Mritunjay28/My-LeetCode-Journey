@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1706-min-cost-to-connect-all-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
