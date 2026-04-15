@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3474-lexicographically-smallest-generated-string) |
