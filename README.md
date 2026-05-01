@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0463-island-perimeter) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
+| [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0789-escape-the-ghosts](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0789-escape-the-ghosts) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
