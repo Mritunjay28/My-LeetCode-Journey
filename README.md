@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1905-count-sub-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [1943-describe-the-painting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1943-describe-the-painting) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1905-count-sub-islands) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2038-nearest-exit-from-entrance-in-maze) |
