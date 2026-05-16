@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0732-my-calendar-iii) |
