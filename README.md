@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1314-matrix-block-sum) |
+| [1345-jump-game-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1345-jump-game-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
