@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2615-sum-of-distances](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
