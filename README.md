@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0820-short-encoding-of-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0820-short-encoding-of-words) |
 | [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0799-champagne-tower) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-sum-of-distances-in-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0863-sum-of-distances-in-tree) |
