@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0874-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-sum-of-distances-in-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0863-sum-of-distances-in-tree) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
