@@ -18,6 +18,7 @@ class Solution {
                 if(set.contains(prefix)) {
                     ans=Math.max(ans,(int)Math.log10(prefix) + 1);
                 }
+                else break;
             }
         }
 
