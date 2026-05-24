@@ -1,34 +1,33 @@
 class Solution {
-    int[] memo = new int[1001];
+    int max = 0;
+    int[][] memo = new int[1001][1001];
 
     public int maxJumps(int[] arr, int d) {
-        int ans = 1;
 
         for (int i = 0; i < arr.length; i++) {
-            ans = Math.max(ans, dfs(i, arr, d));
+            dfs(i, arr, d, 1);
+            if(max==arr.length) break;
         }
-
-        return ans;
+        return max;
     }
 
-    public int dfs(int idx, int[] arr, int d) {
-        if (memo[idx] != 0) return memo[idx];
+    public void dfs(int idx, int[] arr, int d, int count) {
 
-        int best = 1;
+        if(memo[idx][count]!=0) return ;
 
-        // left
         for (int i = idx - 1; i >= Math.max(0, idx - d); i--) {
             if (arr[i] >= arr[idx]) break;
-            best = Math.max(best, 1 + dfs(i, arr, d));
+             dfs(i,arr,d,count+1);
         }
 
         // right
         for (int i = idx + 1; i <= Math.min(arr.length - 1, idx + d); i++) {
             if (arr[i] >= arr[idx]) break;
-            best = Math.max(best, 1 + dfs(i, arr, d));
+            dfs(i,arr,d,count+1);
         }
 
-        memo[idx] = best;
-        return best;
+
+        max=Math.max(max,count);
+        memo[idx][count]=max;
     }
 }
