@@ -1,27 +1,27 @@
 class Solution {
     public boolean canReach(String s, int minJump, int maxJump) {
-         Queue<Integer> queue = new LinkedList<>();
-        queue.offer(0);
+        boolean[] visited = new boolean[s.length()];
+        visited[0] = true;
 
-        int max = 0;
-        int n = s.length();
+        int farthest = 0;
 
-        while (!queue.isEmpty()) {
-            int i = queue.poll();
+        for (int i = 0; i < s.length(); i++) {
+            if (!visited[i]) {
+                continue;
+            }
 
-            int start = Math.max(i + minJump, max + 1);
-            int end = Math.min(i + maxJump + 1, n);
+            int start = Math.max(i + minJump, farthest + 1);
+            int end = Math.min(i + maxJump, s.length() - 1);
 
-            for (int j = start; j < end; j++) {
+            for (int j = start; j <= end; j++) {
                 if (s.charAt(j) == '0') {
-                    if (j == n - 1) return true;
-                    queue.offer(j);
+                    visited[j] = true;
                 }
             }
 
-            max = i + maxJump;
+            farthest = end;
         }
 
-        return n == 1;
+        return visited[s.length() - 1];
     }
 }
