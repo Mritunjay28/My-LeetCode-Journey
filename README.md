@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
