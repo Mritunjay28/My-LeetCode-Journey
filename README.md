@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1871-jump-game-vii) |
