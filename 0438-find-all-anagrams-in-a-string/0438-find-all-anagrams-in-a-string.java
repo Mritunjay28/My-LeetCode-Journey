@@ -3,26 +3,25 @@ class Solution {
         int n =s.length() , m =p.length();
         int l=0,r=0;
         int[] ch = new int[26];
-        int[] ch2 = new int[26];
 
-        for(int i=0;i<m;i++)  ch2[p.charAt(i)-'a']++;
+        for (char c : p.toCharArray()) {
+            ch[c - 'a']++;
+        }
+        int count =m;
         List<Integer> ans = new ArrayList<>();
 
         while(r<n){
-            ch[s.charAt(r)-'a']++;
+            if(ch[s.charAt(r)-'a']> 0 ) count--;
+            ch[s.charAt(r)-'a']--;
 
             while(r-l+1>m){
-                ch[s.charAt(l)-'a']--;
+                if(ch[s.charAt(l)-'a'] >=0 ) count++;
+                ch[s.charAt(l)-'a']++;
                 l++;
             }
-            boolean possible = true;
+           
 
-            for(int i=0;i<26;i++) if(ch[i]!=ch2[i]){
-                possible = false;
-                break;
-            }
-
-            if(possible) ans.add(r-m+1);
+            if(count==0) ans.add(l);
             r++;
         }
 
