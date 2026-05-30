@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
