@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
@@ -1144,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
