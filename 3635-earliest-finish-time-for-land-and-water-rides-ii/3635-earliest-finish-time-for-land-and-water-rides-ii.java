@@ -1,32 +1,38 @@
 class Solution {
     public int earliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
-        int ans =Integer.MAX_VALUE;
-        int minLand=Integer.MAX_VALUE;
-        for(int i=0;i<landStartTime.length;i++){
-            minLand=Math.min(minLand,landStartTime[i]+landDuration[i]);
-        }
+        int n = landStartTime.length;
+        int m = waterStartTime.length;
+        // min time if first go to landride then waterride 
+        int minLandTime =10000001;
+        for(int i=0;i<n;i++) minLandTime=Math.min(minLandTime,landStartTime[i]+landDuration[i]);
 
-        for(int i=0;i<waterStartTime.length;i++){
-            if(minLand>=waterStartTime[i]){
-                ans =Math.min(ans,minLand+waterDuration[i]);
-            }else{
-                ans =Math.min(ans,minLand+(waterStartTime[i]-minLand)+waterDuration[i]);
+        // now try to find waterride which take minimum time after water ride 
+        int t1 = 10000001;
+        for(int i=0;i<m;i++){
+            if(waterStartTime[i]<=minLandTime){
+                t1=Math.min(t1,minLandTime+waterDuration[i]);
+            }
+            else {
+                t1=Math.min(t1,waterStartTime[i]+waterDuration[i]);
             }
         }
 
-        int minWater=Integer.MAX_VALUE;
-        for(int i=0;i<waterStartTime.length;i++){
-            minWater=Math.min(minWater,waterStartTime[i]+waterDuration[i]);
-        }
 
-        for(int i=0;i<landStartTime.length;i++){
-            if(minWater>=landStartTime[i]){
-                ans =Math.min(ans,minWater+landDuration[i]);
-            }else{
-                ans =Math.min(ans,minWater+(landStartTime[i]-minWater)+landDuration[i]);
+        // min time if first go to waterride then landride 
+        int minWaterTime =10000001;
+        for(int i=0;i<m;i++) minWaterTime=Math.min(minWaterTime,waterStartTime[i]+waterDuration[i]);
+
+        // now try to find waterride which take minimum time after water ride 
+        int t2 = 10000001;
+        for(int i=0;i<n;i++){
+            if(landStartTime[i]<=minWaterTime){
+                t2=Math.min(t2,minWaterTime+landDuration[i]);
+            }
+            else {
+                t2=Math.min(t2,landStartTime[i]+landDuration[i]);
             }
         }
 
-        return ans;
+        return Math.min(t1,t2);
     }
 }
