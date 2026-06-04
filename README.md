@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3765-complete-prime-number) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3765-complete-prime-number) |
 ## Divide and Conquer
 |  |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4041-climbing-stairs-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4041-climbing-stairs-ii) |
 ## Depth-First Search
 |  |
