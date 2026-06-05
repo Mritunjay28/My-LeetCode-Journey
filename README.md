@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0981-time-based-key-value-store) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1345-jump-game-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1182,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
