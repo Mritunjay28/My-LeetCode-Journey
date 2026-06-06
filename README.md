@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2364-count-number-of-bad-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2364-count-number-of-bad-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2615-sum-of-distances) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2582-pass-the-pillow](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2582-pass-the-pillow) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1174,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1854-maximum-population-year](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1854-maximum-population-year) |
+| [2364-count-number-of-bad-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
