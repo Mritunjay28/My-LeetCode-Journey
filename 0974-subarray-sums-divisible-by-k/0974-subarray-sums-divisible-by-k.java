@@ -6,8 +6,8 @@ class Solution {
        
         for(int i=0;i<nums.length;i++){
             if(i>0) nums[i]+=nums[i-1];
-            int val = nums[i]%k;
-            if(val<0) val+=k;
+            int val = ((nums[i]%k)+k)%k;
+           
             if(map.containsKey(val)) count+=map.get(val);
             map.put(val,map.getOrDefault(val,0)+1);
         }
