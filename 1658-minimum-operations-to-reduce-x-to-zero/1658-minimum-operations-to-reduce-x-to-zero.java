@@ -1,22 +1,26 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
-        int total =0;
-        for(int n : nums ) total+=n;
+        int sum=0;
+        for(int a : nums) sum+=a;
+        int target = sum-x;
+        if(target<0) return -1;
+        int l =0,r=0;
+        int ans =Integer.MIN_VALUE;
+        sum=0;
+        while(r<nums.length){
+            sum+=nums[r];
 
-        if(total-x<0) return -1;
-        if (total-x == 0) return nums.length;
+            while(sum>target){
+                sum-=nums[l];
+                l++;
+            }
 
-        HashMap<Integer,Integer> map = new HashMap<>();
-        map.put(0,-1);
-        int l=-1;
-        for(int i=0;i<nums.length;i++){
-            if(i>0) nums[i]+=nums[i-1];
-            int val = nums[i]+x-total;
-            if(map.containsKey(val)) l =Math.max(l,i-map.get(val));
-           if(!map.containsKey(nums[i])) map.put(nums[i],i);
+            if(sum==target) ans =Math.max(ans,r-l+1);
+            r++;
         }
-        return (l==-1) ? -1 : nums.length-l;
+
+        if(ans == Integer.MIN_VALUE) return -1;
+
+        return nums.length-ans;
     }
 }
-// p[j]-p[i] = total-x;
-// p[j]+x-total = p[i]; 
