@@ -28,12 +28,11 @@ class Solution {
 
     public int bs(int l,int r,int a ,int b,int[] nums){
         int ans =-1;
-         int start = l;
 
         while(l<=r){
             int mid = l+(r-l)/2;
 
-            int max = check(start,mid,0,0,n-1, nums);
+            int max = check(l,mid,0,0,n-1, nums);
 
             if(max!=-1 && nums[max]>nums[a] && nums[max]>nums[b]){
                 ans=mid;
