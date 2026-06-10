@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3453-separate-squares-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3453-separate-squares-i) |
+| [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3546-equal-sum-grid-partition-i) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3453-separate-squares-i) |
+| [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1232,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0732-my-calendar-iii) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
@@ -1251,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0732-my-calendar-iii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph Theory
 |  |
