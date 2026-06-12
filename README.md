@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2574-left-and-right-sum-differences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2615-sum-of-distances](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-count-number-of-bad-pairs) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2582-pass-the-pillow](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2582-pass-the-pillow) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
