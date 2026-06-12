@@ -13,16 +13,19 @@ class Solution {
             if (r == 0) continue;
 
             int need = k - r; 
-            
            
             if (r == need) {
                 if (map.get(r) % 2 != 0) return false;
             } 
-           
-            else if (!map.get(r).equals(map.getOrDefault(need, 0))) {
-                return false;
-            }
+            else if (!map.get(r).equals(map.getOrDefault(need, 0)))  return false;
         }
         return true;
     }
 }
+
+// [1,2,3,4,5,10,6,7,8,9] -> [1,2,3,4,0,0,1,2,3,4]
+// 0->2
+// 1->2
+// 2->2
+// 3->2
+// 4->2
