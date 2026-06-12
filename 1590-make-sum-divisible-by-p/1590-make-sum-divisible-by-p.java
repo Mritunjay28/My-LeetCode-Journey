@@ -33,4 +33,11 @@ class Solution {
 // p[j] congruence a+p[i-1]%p
 
 // p[j]%p =(a+p[i-1]) %p
+// but in hashmap always isolate p[i-1](past) term so 
+// p[i-1] = p[j] - a (mod p)
+// p[i-1]%p = (p[j]-a)%p
+// in above code p[j]=val , a = nums[n-1] , done +p for negative remainder 
+// and we stored p[j]%p in hashmap 
+// LHS of the equation refer to past , so have store this in hashmap
+// RHS of equation refer to present and thing to search currently - always contain all constant term 
 // if anything negative then +p to it 
