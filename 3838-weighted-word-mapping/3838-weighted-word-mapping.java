@@ -9,7 +9,6 @@ class Solution {
 
             count%=26;
             count=25-count;
-            System.out.println(count);
             sb.append((char)('a'+count));
         }
 
