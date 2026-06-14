@@ -33,7 +33,7 @@ class Solution {
 
                 if (distinctFreqs == 1) { 
                     // All elements have the exact same frequency like [5,5,5]
-                    // If there are multiple distinct elements (e.g., [1, 2]), it's invalid.
+                    // If there are multiple distinct elements [1, 2] it's invalid.
                    if (countOfFreq.get(maxFreq) == 1) {
                         ans = Math.max(ans, j - i + 1);
                     }
