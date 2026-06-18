@@ -1,13 +1,12 @@
 # Write your MySQL query statement below
-SELECT customer_id 
-FROM Customer 
-WHERE product_key  IN (
-    SELECT product_key 
-    FROM Product 
+Select customer_id 
+From Customer 
+Where product_key IN (
+    Select product_key 
+    From Product
 )
-GROUP BY customer_id 
-HAVING COUNT(DISTINCT product_key) =
-(
-    SELECT COUNT(*)
-    FROM Product
+Group By customer_id 
+Having Count(Distinct product_key ) = (
+    Select Count(product_key )
+    From Product
 );
