@@ -9,7 +9,7 @@ UNION ALL
 
 (SELECT title AS results
 FROM MovieRating JOIN Movies USING(movie_id)
-WHERE EXTRACT(YEAR_MONTH FROM created_at) = 202002
+WHERE MONTH(created_at) = 2 AND YEAR(created_at) = 2020
 GROUP BY title
 ORDER BY AVG(rating) DESC, title
 LIMIT 1);
