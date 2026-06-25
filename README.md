@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
+| [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
