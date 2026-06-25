@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
