@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-count-bowl-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-count-bowl-subarrays) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Tree
 |  |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [4052-equal-score-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4052-equal-score-substrings) |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [4053-majority-frequency-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4053-majority-frequency-characters) |
 ## Number Theory
@@ -1306,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1417,4 +1423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
