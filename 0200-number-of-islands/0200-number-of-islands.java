@@ -1,7 +1,6 @@
 class Solution {
     public int numIslands(char[][] grid) {
         int m =grid.length,n=grid[0].length;
-        Queue<int[]> q = new LinkedList<>();
         boolean[][] visited = new boolean [m][n];
 
         int count=0;
