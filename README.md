@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0401-binary-watch) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0980-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
