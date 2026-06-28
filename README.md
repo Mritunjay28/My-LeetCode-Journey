@@ -1449,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-first-letter-capitalization-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3374-first-letter-capitalization-ii) |
 | [3421-find-students-who-improved](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3451-find-invalid-ip-addresses) |
+| [3475-dna-pattern-recognition](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3475-dna-pattern-recognition) |
 ## Binary Indexed Tree
 |  |
 | ------- |
