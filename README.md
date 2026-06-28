@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1876-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2092-find-all-people-with-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bitmask DP
 |  |
@@ -1356,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
 | ------- |
