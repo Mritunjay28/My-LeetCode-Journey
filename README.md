@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0981-time-based-key-value-store) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0997-find-the-town-judge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
