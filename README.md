@@ -1477,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-find-invalid-ip-addresses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3482-analyze-organization-hierarchy) |
+| [3497-analyze-subscription-conversion](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3497-analyze-subscription-conversion) |
 ## Binary Indexed Tree
 |  |
 | ------- |
