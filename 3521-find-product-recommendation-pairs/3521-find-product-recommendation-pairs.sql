@@ -13,4 +13,4 @@ LEFT JOIN ProductInfo p4
 ON p4.product_id = p2.product_id
 GROUP BY p1.product_id ,p2.product_id 
 HAVING COUNT(*) >=3
-ORDER BY COUNT(*) DESC , p1.product_id , p2.product_id
+ORDER BY customer_count DESC , p1.product_id , p2.product_id
