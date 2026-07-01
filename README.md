@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1206,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2439-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
@@ -1374,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bitmask DP
 |  |
