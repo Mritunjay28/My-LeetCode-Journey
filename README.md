@@ -1506,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3497-analyze-subscription-conversion](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3554-find-category-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3564-seasonal-sales-analysis) |
 ## Binary Indexed Tree
 |  |
 | ------- |
