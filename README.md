@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1314-matrix-block-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
