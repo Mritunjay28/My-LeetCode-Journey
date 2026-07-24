@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0778-swim-in-rising-water) |
@@ -822,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
@@ -950,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
@@ -1483,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
