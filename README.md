@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1260-shift-2d-grid) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
@@ -969,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1494,6 +1500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
+| [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
