@@ -1445,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0685-redundant-connection-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0778-swim-in-rising-water) |
