@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3433-count-mentions-per-user](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
