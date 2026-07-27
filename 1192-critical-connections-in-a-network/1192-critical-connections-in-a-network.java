@@ -47,9 +47,7 @@ class Solution {
                 low[u] = Math.min(low[u], low[v]);
 
                 if (low[v] > dt[u]) { // bridge exist
-                    ans.add(new ArrayList<>());
-                    ans.get(ans.size() - 1).add(u);
-                    ans.get(ans.size() - 1).add(v);
+                   ans.add(Arrays.asList(u, v));
                 }
             }
 
