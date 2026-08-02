@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-shortest-bridge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0934-shortest-bridge) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0789-escape-the-ghosts) |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0878-nth-magical-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-sum-of-distances-in-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0877-stone-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
@@ -1691,4 +1694,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
