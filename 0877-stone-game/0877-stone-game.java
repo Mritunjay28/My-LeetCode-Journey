@@ -1,35 +1,19 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
         int n = piles.length;
-    int[][] dp = new int[n][n];
-    // dp[i][j]= max net score difference btw alice and bob can be achieve using piles[i....j]
-    // goal dp[0][n-1] , if dp[0][n-1] >0 alice win;
+        Integer[][] memo = new Integer[n][n];
+      
+        return f(0,n-1,piles,memo) >0;
+    }
 
-    // transition state 
-    // 2 option first , last 
-    // if first then pick piles[i] , reamin piles [i+1 ... j] oppnent get advantage of dp[i+1][j]
-    // so net gain dp[i][j] = piles[i] - dp[i+1][j]
+    public int f(int i,int j,int[] piles, Integer[][] memo){
+        if(i==j) return piles[i];
 
-    // if last then dp[i][j] = piles[j] - dp[i][j-1]
+        if(memo[i][j]!=null) return memo[i][j];
 
-    // so dp[i][j] = Max(piles[i] - dp[i+1][j] , piles[j] - dp[i][j-1])
+        int first = piles[i] - f(i+1,j,piles,memo);
+        int last = piles[j] - f(i,j-1,piles,memo);
 
-    // base case : i==j dp[i][j]=piles[i]
-
-
-    for(int i=0;i<n;i++) dp[i][i] = piles[i];
-
-    for (int len = 2; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-                
-                int pickStart = piles[i] - dp[i + 1][j];
-                int pickEnd = piles[j] - dp[i][j - 1];
-
-                dp[i][j] = Math.max(pickStart, pickEnd);
-            }
-        }
-
-        return dp[0][n - 1] > 0;
+        return memo[i][j] = Math.max(first,last);
     }
 }
