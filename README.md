@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3863-power-grid-maintenance) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3863-power-grid-maintenance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Queue
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
