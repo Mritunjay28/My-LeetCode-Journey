@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
+| [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
