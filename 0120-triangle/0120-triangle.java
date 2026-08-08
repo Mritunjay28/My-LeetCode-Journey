@@ -1,19 +1,32 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        for(int i=1;i<triangle.size();i++){
-            for(int j=0;j<triangle.get(i).size();j++){
-                int upper=10000000;
-                if(j <triangle.get(i-1).size()) upper=triangle.get(i-1).get(j);
-                int upperleft=10000000;
-                if(j-1 >=0) upperleft=triangle.get(i-1).get(j-1);
-                triangle.get(i).set(j, Math.min(upper+triangle.get(i).get(j),upperleft+triangle.get(i).get(j) ));
-            }
-        }
+      //  return f(0,0,triangle);
+      int n = triangle.size();
+      int m = triangle.get(n-1).size();
 
-        int min=10000000;
-        for(int i=0;i<triangle.get(triangle.size()-1).size();i++){
-            min=Math.min(min,triangle.get(triangle.size()-1).get(i));
+      int[][] dp = new int[n][m];
+
+      for(int i=0;i<m;i++) dp[n-1][i] = triangle.get(n-1).get(i);
+
+       for(int i=n-2;i>=0;i--){
+        for(int j=0;j<triangle.get(i).size();j++){
+            int down = dp[i+1][j];
+            int downRight = dp[i+1][j+1]; 
+
+           dp[i][j] =  triangle.get(i).get(j) + Math.min(down,downRight);
         }
-        return min;
+       }
+
+       return dp[0][0];
+
     }
+
+    // public int f(int i,int j,List<List<Integer>> triangle){
+    //     if(i==triangle.size()-1) return triangle.get(i).get(j);
+
+    //     int down = f(i+1,j,triangle);
+    //     int downRight = f(i+1,j+1,triangle);
+
+    //     return triangle.get(i).get(j) + Math.min(down,downRight);
+    // }
 }
