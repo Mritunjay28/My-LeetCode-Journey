@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0752-open-the-lock) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0827-making-a-large-island) |
