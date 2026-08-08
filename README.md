@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
@@ -1282,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
