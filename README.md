@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
@@ -1740,10 +1743,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
