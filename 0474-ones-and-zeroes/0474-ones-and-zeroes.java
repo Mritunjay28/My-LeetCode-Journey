@@ -2,18 +2,18 @@ class Solution {
     public int findMaxForm(String[] strs, int m, int n) {
         //   return f(0,strs,m,n);
         int l = strs.length;
-        int[][][] dp = new int[l+1][m+1][n+1];
+        int[][][] dp = new int[l + 1][m + 1][n + 1];
 
         for (int i = l - 1; i >= 0; i--) {
+            int zero = 0, one = 0;
+            for (int j = 0; j < strs[i].length(); j++) {
+                if (strs[i].charAt(j) == '0')
+                    zero++;
+                else
+                    one++;
+            }
             for (int x = 0; x <= m; x++) {
                 for (int y = 0; y <= n; y++) {
-                    int zero = 0, one = 0;
-                    for (int j = 0; j < strs[i].length(); j++) {
-                        if (strs[i].charAt(j) == '0')
-                            zero++;
-                        else
-                            one++;
-                    }
 
                     int take = 0;
                     if (zero <= x && one <= y) {
