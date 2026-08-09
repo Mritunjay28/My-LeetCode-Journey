@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1306-jump-game-iii) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1260-shift-2d-grid) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1314-matrix-block-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1314-matrix-block-sum) |
