@@ -1,35 +1,43 @@
 class Solution {
     public boolean canPartition(int[] nums) {
         int sum=0;
-        for(int x : nums) sum+=x;
+        for(int i=0;i<nums.length;i++) sum+=nums[i];
 
         if(sum%2!=0) return false;
 
         int target = sum/2;
-        int n = nums.length;
+        // return f(0,target,nums);
 
-        boolean[][] dp = new boolean[n+1][target+1];
+        int n=nums.length;
 
-        for(int i=0;i<=n;i++) dp[i][0] =true;
-        for(int i=0;i<=target;i++) dp[0][i] =false;
+        boolean[][] dp = new boolean [n+1][target+1];
 
-        dp[0][0]=true;
-
-        for(int i=1;i<=n;i++){
+        for(int i=0;i<=n;i++) dp[i][0] = true;
+        
+        for(int i=n-1;i>=0;i--){
             for(int j=1;j<=target;j++){
-                if(nums[i-1] <= j){
-                    boolean take = dp[i-1][j-nums[i-1]];
-                    boolean nottake = dp[i-1][j];
+                boolean ispossible = false;
+                if(j-nums[i]>=0) ispossible|= dp[i+1][j-nums[i]];
+                ispossible|= dp[i+1][j];
 
-                    dp[i][j] = take || nottake;
-                }
-                else {
-                    boolean nottake = dp[i-1][j];
-                    dp[i][j] = nottake;
-                }
+                dp[i][j] = ispossible;
             }
         }
 
-        return dp[n][target];
+        return dp[0][target];
+
     }
+
+    // public boolean f(int i, int target, int[] nums) {
+    //     if (target == 0) return true;
+    //     if (i >= nums.length) return false;
+
+    //     boolean ispossible = false;
+    //     // take
+    //     if( target - nums[i] >=0) ispossible |= f(i + 1, target - nums[i], nums);
+    //     //not take
+    //     ispossible |= f(i + 1, target, nums);
+
+    //     return ispossible;
+    // }
 }
