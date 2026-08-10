@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
+| [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -1756,12 +1758,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
