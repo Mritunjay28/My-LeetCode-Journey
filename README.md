@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
@@ -1747,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
@@ -1761,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
