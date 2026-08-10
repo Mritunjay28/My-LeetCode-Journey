@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0332-reconstruct-itinerary) |
 | [0377-combination-sum-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0396-rotate-function) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0463-island-perimeter) |
@@ -1742,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
@@ -1751,4 +1755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
