@@ -1,35 +1,24 @@
-
-        class Solution {
+class Solution {
     public String longestPalindrome(String s) {
-        if(s.length()==0) return "";
+        int n = s.length();
+        int start = 0;
+        int maxLength = 1;
 
-        int n=s.length();
-        String rev = new StringBuilder(s).reverse().toString();
-        int[][] dp = new int[n+1][n+1];
-        int max=0,endindex=0;
-
-        for(int i=1;i<n+1;i++){
-            for(int j=1;j<n+1;j++){
-                if(s.charAt(i-1)==rev.charAt(j-1)) {
-                    dp[i][j]= 1+ dp[i-1][j-1] ;
-                }
-                    // original index = i - 1
-                    // reversed index = j - 1
-                    // actual index in original string from reversed = n - j
-
-                if ((i - dp[i][j]) == (n - j)) { // validate position match
-                   if (dp[i][j] > max) {
-                     max = dp[i][j];
-                     endindex = i - 1; // last index of palindrome in original string
-                   }
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                if (isPalindrome(i, j, s) && (j - i + 1) > maxLength) {
+                    start = i;
+                    maxLength = j - i + 1;
                 }
             }
         }
 
-        int stindex= endindex-max +1;
+        return s.substring(start, start + maxLength);
+    }
 
-        return s.substring(stindex,endindex+1);
-       
+    private boolean isPalindrome(int i, int j, String s) {
+        if (i >= j) return true;
+        if (s.charAt(i) != s.charAt(j)) return false;
+        return isPalindrome(i + 1, j - 1, s);
     }
 }
-    
