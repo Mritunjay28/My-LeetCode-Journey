@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0055-jump-game) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0068-text-justification) |
@@ -1645,6 +1647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
