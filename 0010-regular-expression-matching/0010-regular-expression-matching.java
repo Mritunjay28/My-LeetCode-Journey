@@ -47,3 +47,31 @@ class Solution {
         return false;
     }
 }
+
+/*
+// if match 
+i < s.length() (i.e., the string still has characters left).
+They match if the characters are identical, or if p[j] is .
+
+let curr character as p[j]
+// if * 
+Case A: The next character is * (p[j + 1] == '*')
+
+The pattern character p[j] cannot be evaluated in isolation because 
+the character immediately following it might modify it.
+
+Choice 1: Match 0 times (f(i, j + 2)) Ignore the whole char + * pair completely.
+Example: s = "b", p = "a*b". We skip a* and match "b" with "b"
+
+Choice 2: Match 1 (or more) times (match && f(i + 1, j)) 
+We keep j where it is! Because * can match multiple characters, keeping j allows the recursive call to decide whether to consume another character from s on the next turn.
+
+No * after p[j]
+If there is no * at j + 1, this is just a strict 1-to-1 character match:
+if (match) {
+    return f(i + 1, j + 1, s, p);
+}
+return false;
+
+
+*/
