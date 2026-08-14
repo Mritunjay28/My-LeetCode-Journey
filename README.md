@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0741-cherry-pickup) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
@@ -1794,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1143-longest-common-subsequence) |
 ## Manacher
 |  |
