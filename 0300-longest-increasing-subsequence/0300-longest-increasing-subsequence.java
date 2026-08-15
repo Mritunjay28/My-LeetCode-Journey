@@ -26,3 +26,8 @@ class Solution {
         return max;
     }
 }
+
+/*
+Study how to print LIS 
+study nlogn method (binary search)
+*/
