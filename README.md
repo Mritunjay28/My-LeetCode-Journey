@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0307-range-sum-query-mutable) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0332-reconstruct-itinerary) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1532,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
