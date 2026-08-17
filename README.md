@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
+| [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0956-tallest-billboard) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1143-longest-common-subsequence) |
@@ -1075,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0981-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
+| [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1092-shortest-common-supersequence) |
@@ -1272,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
+| [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
