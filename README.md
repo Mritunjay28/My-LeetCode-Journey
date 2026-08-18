@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3453-separate-squares-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3453-separate-squares-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
