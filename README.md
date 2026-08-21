@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0733-flood-fill) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -1330,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0871-minimum-number-of-refueling-stops) |
