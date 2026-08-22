@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1470-shuffle-the-array) |
+| [1473-paint-house-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1473-paint-house-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1473-paint-house-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1473-paint-house-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
