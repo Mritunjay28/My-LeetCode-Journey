@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0063-unique-paths-ii) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1888,4 +1890,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
