@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
@@ -1600,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0212-word-search-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
@@ -1795,6 +1800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1869,4 +1875,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
