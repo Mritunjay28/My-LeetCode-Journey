@@ -25,15 +25,6 @@ class Solution {
         }
 
         if(min==Integer.MAX_VALUE) return "";
-
-        while(s.charAt(l)=='0') l++;
-        int len = r-l;
-                if(len<min) {
-                    min=len;
-                    set = new ArrayList<>();
-                    set.add(s.substring(l,r));
-                }
-                else if(len==min) set.add(s.substring(l,r));
         
         Collections.sort(set);
 
