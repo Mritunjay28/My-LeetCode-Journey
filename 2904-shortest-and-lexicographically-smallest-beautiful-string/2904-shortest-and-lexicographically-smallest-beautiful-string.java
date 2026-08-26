@@ -9,7 +9,6 @@ class Solution {
             while(k<0){
                 if(s.charAt(l)=='1') k++;
                 l++;
-                while(s.charAt(l)=='0') l++;
             }
 
             if(k==0){
