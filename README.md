@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3606-coupon-code-validator) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3863-power-grid-maintenance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
@@ -1267,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3665-twisted-mirror-path-count](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1295,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
