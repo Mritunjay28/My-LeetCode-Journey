@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2126-destroying-asteroids) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2140-solving-questions-with-brainpower](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2121-find-if-path-exists-in-graph) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1483,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2360-longest-cycle-in-a-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1691,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1925,4 +1930,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0051-n-queens) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
