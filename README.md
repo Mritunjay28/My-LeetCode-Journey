@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
+| [1223-dice-roll-simulation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1223-dice-roll-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1260-shift-2d-grid) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1162-as-far-from-land-as-possible) |
+| [1223-dice-roll-simulation](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1223-dice-roll-simulation) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
