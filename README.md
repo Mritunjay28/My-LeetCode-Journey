@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1731-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2360-longest-cycle-in-a-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
