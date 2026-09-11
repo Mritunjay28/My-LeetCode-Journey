@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3479-fruits-into-baskets-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3479-fruits-into-baskets-iii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1760,6 +1763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
