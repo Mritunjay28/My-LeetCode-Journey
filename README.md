@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-build-a-matrix-with-conditions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2518-number-of-great-partitions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2518-number-of-great-partitions) |
 | [2540-minimum-common-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2574-left-and-right-sum-differences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2518-number-of-great-partitions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2518-number-of-great-partitions) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
