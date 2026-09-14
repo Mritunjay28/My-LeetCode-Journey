@@ -29,34 +29,44 @@ class Solution {
     }
 }
 /*
-so have to return count of gift can select 
-problem difficult as don't know which 2 segments give max no of gift ??
+// so have to return count of gift can select 
+// problem difficult as don't know which 2 segments give max no of gift ??
 
-so first let stores all location - no of gifts 
+// so first let stores all location - no of gifts 
 
-so 
-1-2
-2-2
-3-2
-5-2 
+// so 
+// 1-2
+// 2-2
+// 3-2
+// 5-2 
 
-now this segment can be any thing like seperate or overlap 
-so how to find ??
+// now this segment can be any thing like seperate or overlap 
+// so how to find ??
 
-if k=0 then ans always 2 
+// if k=0 then ans always 2 
 
-brute force => 
-for each  i consider it as starting part of segment and find max no of gift possible to get from that - will
-    it provide all cases ?? => YESSSS
+// brute force => 
+// for each  i consider it as starting part of segment and find max no of gift possible to get from that - will
+//     it provide all cases ?? => YESSSS
 
-but have to select 2 segment so for that we do that remove segment 1 from array then check again by it ??
-will it give second best place ?? yes 
+// but have to select 2 segment so for that we do that remove segment 1 from array then check again by it ??
+// will it give second best place ?? yes 
 
-// edge case if diff of arr[n-1]-arr[0] >= k then answer is arr.length
+// // edge case if diff of arr[n-1]-arr[0] >= k then answer is arr.length
 
 
-so solution is that check 
-by genrating all subsets but for subset use nlogn by using binary search to find the ens of subset 
+// so solution is that check 
+// by genrating all subsets but for subset use nlogn by using binary search to find the ens of subset 
 
-and then after finding ssegment 1 range delete that part from arr then check again and do the sum of both range if 
+// and then after finding ssegment 1 range delete that part from arr then check again and do the sum of both range 
+
+but my assumtion take selecting max no of section will always give best answerr => No
+
+[0, 2, 2, 4, 4, 6] with k = 2
+we select [2,4] then remove it then select either 0 or 6 
+
+but best is [0,2] , [4,6];
+
+so it must be like currbest + prevbest
+so dp + slidingwindow to find max on the go .
 */
