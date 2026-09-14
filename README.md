@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0789-escape-the-ghosts) |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0878-nth-magical-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
