@@ -51,7 +51,7 @@ class Solution {
     }
 
     /*
-    so my code was not able to memo as currsum can be 10^9 
+    so my code was not able to memo as currsum can be 10^9 * 10^3
     so to solve this we flip the question that 
     valid no = total - invalid subset 
     
