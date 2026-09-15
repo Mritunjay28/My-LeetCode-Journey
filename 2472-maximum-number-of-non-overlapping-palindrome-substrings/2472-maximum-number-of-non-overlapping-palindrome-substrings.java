@@ -18,8 +18,7 @@ class Solution {
                 if(j-i+1 < k) break;
                 if(palindrome[i][j]){
                    max=Math.max(max,1+dp[i]);
-                   if(dp[j+1]>0 && dp[j+1]<dp[i]+1) dp[j+1]=dp[i]+1;
-                   else if(dp[j+1]<=0) dp[j+1]=dp[i]+1;
+                    dp[j+1]=Math.max(dp[j+1],dp[i]+1);
                 }
                 dp[i+1]=Math.max(dp[i+1],dp[i]);
             }
