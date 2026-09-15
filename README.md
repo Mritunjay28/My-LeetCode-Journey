@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2518-number-of-great-partitions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2518-number-of-great-partitions) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1189,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2833-furthest-point-from-origin) |
@@ -1374,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1428,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
