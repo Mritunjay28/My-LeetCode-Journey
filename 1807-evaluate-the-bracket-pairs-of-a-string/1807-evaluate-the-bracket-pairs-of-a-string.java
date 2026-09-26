@@ -11,7 +11,6 @@ class Solution {
             else if(s.charAt(i)==')') {
                 r=i;
                 String key = s.substring(l+1,r);
-                System.out.println(key);
                 if(map.containsKey(key)) {
                     sb.append(map.get(key));
                 }else sb.append('?');
