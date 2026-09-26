@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1753-path-with-minimum-effort) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1840-maximum-building-height) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-describe-the-painting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1943-describe-the-painting) |
 | [1980-find-unique-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1980-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1927-sum-game) |
