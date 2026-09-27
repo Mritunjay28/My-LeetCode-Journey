@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1981,4 +1983,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
