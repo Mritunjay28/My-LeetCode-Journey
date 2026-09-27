@@ -1,48 +1,41 @@
 class Solution {
+    int[][] memo;
     int OFFSET = 5000;
     public int tallestBillboard(int[] rods) {
-        // int ans = f(0, 0, rods);
-        // return ans < 0 ? 0 : ans / 2;
-        int sum = 0;
-        for (int x : rods)
-            sum += x;
-        int n = rods.length;
-        int[][] dp = new int[n + 1][10001];
+        memo = new int[rods.length][10001];
+        for(int i=0;i<rods.length;i++) Arrays.fill(memo[i],-1);
 
-        for (int i = 0; i <= 10000; i++) dp[n][i] = (int) -1e9;
-
-        dp[n][0+OFFSET] = 0;
-
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = -5000; j <= 5000; j++) {
-
-                int take = (j + rods[i] <= 5000) ? rods[i] + dp[i + 1][j + rods[i] + OFFSET] : (int) -1e9;
-
-                int nottake = (j - rods[i] >= -5000) ? rods[i] + dp[i + 1][j - rods[i] + OFFSET] : (int) -1e9;
-
-                int skip = dp[i+1][j+OFFSET];
-
-                dp[i][j+OFFSET] = Math.max(take, Math.max(nottake, skip));
-            }
-        }
-
-        int ans = dp[0][0 + OFFSET];
-        return ans < 0 ? 0 : ans / 2;
+        int ans = f(0,rods,0);
+        return (ans<0) ?  0: ans/2;
     }
 
-    public int f(int i, int sum, int[] rods) {
-        if (i == rods.length && sum == 0)
-            return 0;
-        if (i == rods.length)
-            return (int) -1e9;
+    public int f(int i,int[] arr,int curr){
+        if(i==arr.length){
+            if(curr==0) return curr;
+            else return -(int)1e6;
+        }
+        if(memo[i][curr+OFFSET] !=-1) return memo[i][curr+OFFSET];
+        // take 
+        int take =f(i+1,arr,curr+arr[i])+arr[i];
+        //nottake
+        int nottake=f(i+1,arr,curr-arr[i])+arr[i];
+        //skip
+        int skip=f(i+1,arr,curr);
 
-        int take = f(i + 1, sum + rods[i], rods) + rods[i];
-        int nottake = f(i + 1, sum - rods[i], rods) + rods[i];
-        int skip = f(i + 1, sum, rods);
-
-        return Math.max(take, Math.max(nottake, skip));
+        return memo[i][curr+OFFSET]= Math.max(take, Math.max(nottake,skip));
     }
 }
-// +1,+2,-3,+7,-6
-// 10-9 = 1;
-// 
+/*
+have to divide array into 2  parts may include or not 
+
+both side same size 
+so like if we have x as curr height then from remaining we have to find if an x is also possible 
+
+by take not take we can do like divide it into 2 part then do the take or not take and find if we can make it .
+but tc high .
+
+it is dp but how ?? => we awant t= 2s+k so want highest value which cna form fro arr and is divisible by 2 
+ 
+
+
+*/
