@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1980-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2306-naming-a-company](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-naming-a-company) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2306-naming-a-company](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-naming-a-company) |
@@ -1244,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2069-walking-robot-simulation-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2169-simple-bank-system) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3797-design-spreadsheet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 | [4059-design-exam-scores-tracker](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/4059-design-exam-scores-tracker) |
@@ -1702,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0212-word-search-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0792-number-of-matching-subsequences) |
 | [0820-short-encoding-of-words](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0820-short-encoding-of-words) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Brainteaser
