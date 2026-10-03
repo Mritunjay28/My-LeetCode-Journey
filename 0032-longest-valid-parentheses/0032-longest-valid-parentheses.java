@@ -7,7 +7,9 @@ class Solution {
             if(s.charAt(i-1)=='(') dp[i]=((i>=2) ? dp[i-2] : 0 )+2; 
             else { 
                 int matching = i - dp[i-1] -1; 
-                if(matching>=0 && s.charAt(matching)=='(' ) dp[i]=dp[i-1]+(i - dp[i - 1] >= 2 ? dp[i - dp[i - 1] - 2] : 0) +2;
+                if(matching>=0 && s.charAt(matching)=='(' ){
+                    dp[i]=dp[i-1]+(i - dp[i - 1] >= 2 ? dp[i - dp[i - 1] - 2] : 0) +2;
+                }
             }
             max=Math.max(max,dp[i]);
          }
