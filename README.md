@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0654-maximum-binary-tree) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0055-jump-game) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
@@ -2017,6 +2020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
