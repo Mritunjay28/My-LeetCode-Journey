@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0856-score-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-time-based-key-value-store](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
@@ -2028,6 +2030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
