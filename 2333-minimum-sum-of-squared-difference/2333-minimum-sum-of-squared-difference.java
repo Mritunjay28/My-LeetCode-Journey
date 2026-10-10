@@ -2,9 +2,15 @@ class Solution {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int n = nums1.length;
         int[] diff = new int[100001];
-        for(int i=0;i<n;i++) diff[Math.abs(nums1[i]-nums2[i])]++;
+        long total=0;
+        for(int i=0;i<n;i++){
+            diff[Math.abs(nums1[i]-nums2[i])]++;
+            total+= Math.abs(nums1[i]-nums2[i]);
+        } 
 
         long k= k1+k2;
+        if(total<=k) return 0;
+        
         for(int i=diff.length-1;i>0;i--){
             if(k >= diff[i]){
                 diff[i-1]+=diff[i];
