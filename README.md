@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2306-naming-a-company](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-naming-a-company) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2364-count-number-of-bad-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2751-robot-collisions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2751-robot-collisions) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2555-maximize-win-from-two-segments](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2555-maximize-win-from-two-segments) |
@@ -1476,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1591,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2054-two-best-non-overlapping-events) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
