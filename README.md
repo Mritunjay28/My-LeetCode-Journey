@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1020-number-of-enclaves) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1032-satisfiability-of-equality-equations) |
+| [1035-uncrossed-lines](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-uncrossed-lines) |
 | [1036-rotting-oranges](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0956-tallest-billboard) |
 | [0968-binary-tree-cameras](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1092-shortest-common-supersequence) |
@@ -2000,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0583-delete-operation-for-two-strings) |
+| [1035-uncrossed-lines](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1143-longest-common-subsequence) |
 ## Manacher
