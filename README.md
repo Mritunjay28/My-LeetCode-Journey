@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1925-count-square-sum-triples) |
 | [2306-naming-a-company](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2306-naming-a-company) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
