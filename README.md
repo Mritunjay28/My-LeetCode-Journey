@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3649-number-of-perfect-pairs) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/3767-maximize-points-after-choosing-k-tasks) |
