@@ -14,35 +14,31 @@
  * }
  */
 class Solution {
-    List<TreeNode> arr;
+    TreeNode first, last, prev;
+
     public void recoverTree(TreeNode root) {
-        arr = new ArrayList<>();
-        dfs(root);
-        List<TreeNode> arr2 = new ArrayList<>();
-        for(int i=0;i<arr.size();i++) arr2.add(arr.get(i));
-        Collections.sort(arr2,(a,b) -> Integer.compare(a.val, b.val));
-        TreeNode first=null;
-        TreeNode last=null;
-        for(int i=0;i<arr2.size();i++){
-            if(arr.get(i).val != arr2.get(i).val){
-                if(first==null) first = arr.get(i);
-                else{
-                    last=arr.get(i);
-                    break;
-                }
+        inorder(root);
+
+        int temp = first.val;
+        first.val = last.val;
+        last.val = temp;
+    }
+
+    private void inorder(TreeNode node) {
+        if (node == null) return;
+
+        inorder(node.left);
+
+        if (prev != null && prev.val > node.val) {
+            if (first == null) {
+                first = prev;
             }
+            last = node;
         }
 
-        int temp=first.val;
-        first.val=last.val;
-        last.val=temp;
+        prev = node;
+
+        inorder(node.right);
     }
 
-    public void dfs(TreeNode node){
-        if(node==null) return;
-        dfs(node.left);
-        arr.add(node);
-        dfs(node.right);
-
-    }
 }
