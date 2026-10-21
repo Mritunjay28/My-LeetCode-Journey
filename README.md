@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0133-clone-graph) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0307-range-sum-query-mutable) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
