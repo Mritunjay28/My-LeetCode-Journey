@@ -28,14 +28,11 @@ class BSTIterator {
     }
     
     public int next() {
-        int val = arr.get(i);
-        i++;
-        return val;
+        return arr.get(i++);
     }
     
     public boolean hasNext() {
-        if(i<arr.size()) return true;
-        return false;
+        return i<arr.size();
     }
 }
 
