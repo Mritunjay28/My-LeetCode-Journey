@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1110-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1110-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1340-jump-game-v) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1473-paint-house-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1473-paint-house-iii) |
@@ -1016,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -2115,6 +2120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay28/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
