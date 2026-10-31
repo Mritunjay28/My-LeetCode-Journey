@@ -12,8 +12,6 @@ class Solution {
     }
 
     public int recursion(int[][] grid,int dir,int i,int j){
-        
-        
         if(i>=grid.length || j>=grid[0].length) return 0;
         if(i==grid.length-1 && j==grid[0].length-1) return 1;
 
